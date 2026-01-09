@@ -20,7 +20,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Released under the CC-BY-SA-4.0 license.',
-      copyright: `Copyright © 2018-${new Date().getFullYear()} <a href="https://github.com/doocs">Doocs</a>`
+      copyright: `Copyright © 2026-${new Date().getFullYear()} <a href="https://github.com/doocs">Doocs</a>`
     },
     logo: 'https://fastly.jsdelivr.net/gh/doocs/source-code-hunter@main/images/favicon-32x32.png',
     docFooter: {
